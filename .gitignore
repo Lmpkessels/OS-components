@@ -1,0 +1,41 @@
+# Plan
+
+linux_from_scratch_c_project_roadmap.md
+os_components_project_core_principles_structure.md
+
+# Anchor
+
+components/00_kernel
+components/01_boot/src/boot_entry
+components/01_boot/include
+components/01_boot/notes.md
+components/01_boot/test
+
+# Explore
+
+components/02_interrupts
+components/03_physmem
+components/04_paging
+
+# Parked
+
+components/05_scheduler
+components/06_syscalls
+components/07_fs_ram
+components/08_tty
+components/09_init
+
+# Speed up scripts
+
+script.py
+
+# First boot files to test
+
+boot.hex
+boot.img
+floppy.img
+
+# Makefile
+
+Makefile
+components/01_boot/Makefile
